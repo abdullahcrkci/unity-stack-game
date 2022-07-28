@@ -30,6 +30,5 @@ I made this game to improve myself
 
 ❌Menus, UI
 
-## Supported Platforms?
-**Windows**
+
 
