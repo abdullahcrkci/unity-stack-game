@@ -2,7 +2,7 @@
 
 ## About
 
-I made this game to improve myself
+*I made this game to improve myself*
 
 **Unity Version**:2020.3.15f2
 
