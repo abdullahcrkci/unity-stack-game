@@ -6,29 +6,18 @@ I made this game to improve myself
 
 **Unity Version**:2020.3.15f2
 
-## Screenshots
 
-![Ekran Görüntüsü (3).png](https://github.com/abdullahcrkci/unity-dream-restaurants/blob/main/DreamRestaurants/Assets/Pics/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(3).png)
 
-![Ekran Görüntüsü (6).png](https://github.com/abdullahcrkci/unity-dream-restaurants/blob/main/DreamRestaurants/Assets/Pics/Ekran%20G%C3%B6r%C3%BCnt%C3%BCs%C3%BC%20(6).png)
 
-## What is included?
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/108473043/181723854-a9c3c4d2-9fdf-4df1-b906-ad382c97b20c.gif)
 
-✅Basic Logic:Click to go up
+**Start growing in x3 combo**
 
-✅Unity project
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/108473043/181724268-4d20c726-f6c2-477a-a330-7efce783cdca.gif)
 
-✅Local multiplayer logic
+*A work in progress*  <br/>
+*Build a tower by stacking*
 
-✅Touch controls
-
-✅Unit tests for gameplay
-
-## What is not included?
-
-❌Assets (no sprites, no backgrounds, no sounds, no FXs) - no copyrighted files!
-
-❌Menus, UI
 
 
 
